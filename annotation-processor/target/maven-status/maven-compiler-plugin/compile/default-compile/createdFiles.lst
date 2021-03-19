@@ -1,0 +1,3 @@
+META-INF/services/javax.annotation.processing.Processor
+com/sorin/annotation/processor/BuilderProcessor.class
+com/sorin/annotation/processor/BuilderProperty.class

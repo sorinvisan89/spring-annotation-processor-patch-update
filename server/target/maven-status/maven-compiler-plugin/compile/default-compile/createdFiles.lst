@@ -1,0 +1,6 @@
+com/sorin/partial/update/entity/PersonEntity.class
+com/sorin/partial/update/domain/PersonDTOBuilder.class
+com/sorin/partial/update/config/JacksonConfig.class
+com/sorin/partial/update/PartialUpdateApplication.class
+com/sorin/partial/update/domain/PersonDTO.class
+com/sorin/partial/update/repository/PeopleRepository.class
