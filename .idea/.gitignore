@@ -1,0 +1,5 @@
+# Default ignored files
+/workspace.xml
+../server/target/*
+../annotation-processor/target/*
+server/target/

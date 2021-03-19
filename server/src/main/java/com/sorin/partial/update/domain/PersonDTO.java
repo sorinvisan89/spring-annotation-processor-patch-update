@@ -17,4 +17,9 @@ public class PersonDTO {
     public void setField(final String field) {
         this.field = field;
     }
+
+    @BuilderProperty
+    public void setLastName(final String field) {
+        this.lastName = lastName;
+    }
 }
