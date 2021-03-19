@@ -1,0 +1,5 @@
+server/target
+server/target/
+server/annotation-processor/
+server/target/classes server/target/generated-sources server/target/maven-status
+annotation-processor/target/
